@@ -4,7 +4,7 @@
       "title": "Medeia",
       "identifier": "7e88bb5f-fe0c-4a0b-9a3f-c5022f56534e",
       "author": "Eripidés",
-      "modified": "2022-03-09T09:01:45.286Z"
+      "modified": "2022-03-09T09:01:39.699Z"
     },
     "chapters": [
       {
@@ -166,6 +166,6 @@
       "user": "books-are-next",
       "repo": "euripides-medeia"
     },
-    "generatedAt": 1646816505609
+    "generatedAt": 1646816500007
   }
 }
