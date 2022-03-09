@@ -1,0 +1,204 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Medeia",
+    "identifier": "7e88bb5f-fe0c-4a0b-9a3f-c5022f56534e",
+    "author": "Eripidés",
+    "language": "cs",
+    "modified": "2022-03-09T09:01:45.286Z",
+    "Sigil version": "0.3.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0021.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/pd-88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Úvod.",
+      "children": [
+        {
+          "title": "I.",
+          "href": "OEBPS/Text/Section0004.xhtml#heading_id_2"
+        },
+        {
+          "title": "II.",
+          "href": "OEBPS/Text/Section0004.xhtml#heading_id_2"
+        },
+        {
+          "title": "III.",
+          "href": "OEBPS/Text/Section0004.xhtml#heading_id_2"
+        },
+        {
+          "title": "OSOBY.",
+          "href": "OEBPS/Text/Section0005.xhtml"
+        },
+        {
+          "title": "Prologos.",
+          "href": "OEBPS/Text/Section0006.xhtml"
+        },
+        {
+          "title": "Parodos.",
+          "href": "OEBPS/Text/Section0007.xhtml"
+        },
+        {
+          "title": "Epeisodion I.",
+          "href": "OEBPS/Text/Section0008.xhtml"
+        },
+        {
+          "title": "I. Stasimon.",
+          "href": "OEBPS/Text/Section0009.xhtml"
+        },
+        {
+          "title": "Epeisodion II.",
+          "href": "OEBPS/Text/Section0010.xhtml"
+        },
+        {
+          "title": "II. Stasimon.",
+          "href": "OEBPS/Text/Section0011.xhtml"
+        },
+        {
+          "title": "Epeisodion III.",
+          "href": "OEBPS/Text/Section0012.xhtml"
+        },
+        {
+          "title": "III. Stasimon.",
+          "href": "OEBPS/Text/Section0013.xhtml"
+        },
+        {
+          "title": "Epeisodion IV.",
+          "href": "OEBPS/Text/Section0014.xhtml"
+        },
+        {
+          "title": "IV– Stasimon.",
+          "href": "OEBPS/Text/Section0015.xhtml"
+        },
+        {
+          "title": "Epeisodion V.",
+          "href": "OEBPS/Text/Section0016.xhtml"
+        },
+        {
+          "title": "Mezizpěv anapaestický.",
+          "href": "OEBPS/Text/Section0017.xhtml"
+        },
+        {
+          "title": "Epeisodion VI.",
+          "href": "OEBPS/Text/Section0018.xhtml"
+        },
+        {
+          "title": "V. Stasimon.",
+          "href": "OEBPS/Text/Section0019.xhtml"
+        },
+        {
+          "title": "Exodos.",
+          "href": "OEBPS/Text/Section0020.xhtml"
+        }
+      ],
+      "href": "OEBPS/Text/Section0004.xhtml"
+    }
+  ]
+}

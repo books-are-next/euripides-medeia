@@ -1,0 +1,171 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Medeia",
+      "identifier": "7e88bb5f-fe0c-4a0b-9a3f-c5022f56534e",
+      "author": "Eripidés",
+      "modified": "2022-03-09T09:01:45.286Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0001.md",
+        "xhtml": "Section0001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0002.md",
+        "xhtml": "Section0002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0003.md",
+        "xhtml": "Section0003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0004.md",
+        "xhtml": "Section0004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0005.md",
+        "xhtml": "Section0005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0006.md",
+        "xhtml": "Section0006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0007.md",
+        "xhtml": "Section0007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0008.md",
+        "xhtml": "Section0008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0009.md",
+        "xhtml": "Section0009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0010.md",
+        "xhtml": "Section0010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0011.md",
+        "xhtml": "Section0011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0012.md",
+        "xhtml": "Section0012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0013.md",
+        "xhtml": "Section0013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0014.md",
+        "xhtml": "Section0014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0015.md",
+        "xhtml": "Section0015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0016.md",
+        "xhtml": "Section0016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0017.md",
+        "xhtml": "Section0017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0018.md",
+        "xhtml": "Section0018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0019.md",
+        "xhtml": "Section0019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0020.md",
+        "xhtml": "Section0020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0021.md",
+        "xhtml": "Section0021.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/88x31.png"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/pd-88x31.png"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "sgc-1",
+      "sgc-2",
+      "sgc-3",
+      "sigilChapterBreak"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "euripides-medeia"
+    },
+    "generatedAt": 1646816505609
+  }
+}
