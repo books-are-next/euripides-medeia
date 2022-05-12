@@ -8,6 +8,7 @@ meta:
   identifier: 7e88bb5f-fe0c-4a0b-9a3f-c5022f56534e
   author: Eripidés
 readingOrder:
+  - promo.html
   - section0001.html
   - section0002.html
   - section0003.html
