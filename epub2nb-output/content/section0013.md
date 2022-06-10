@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### III. Stasimon. 
 
 **Chor.:** Blazí ode dávna Erechtheovci! vám, 
@@ -73,3 +75,5 @@ contentType: prose
 > chladně krví jich. 
 
 (Vystoupí Iason.)
+
+</section>

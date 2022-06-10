@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Úvod.
 
 ### I.
@@ -55,3 +57,5 @@ jednaly, kdyby se octly ve stejných okolnostech. Ale zavražditi dítky – tot
 Euripidova Medeia byla za starých časů dramatem velmi oblíbeným a slavným; umělcům a básníkům pozdějším poskytovala hojné látky k uměleckým plodům. Tak juž za Euripida (a podlé Dikaiarchova mínění před ním) napsal básník Neofron Medeiu; později Euripides mladší, Dikaiogenes, Karkinos a j. Do latiny přeložil ji Ennius a zpracoval Ovidius, jehožto dílo velmi od starých se chválí; dále Curiatius Maternus, Lucanus a Seneca, jehožto tragoedie – ne valně zdařilá – se zachovala, a zvláště francouzským spisovatelům (Corneille, Longepierre, Legouvé) vzorem byla. V literatuře německé nejznámějši jsou Klingerova a Grillparzerova Medeia) Z vyobrazení nejslavnější bylo Timomacha Byzantského. Zachovalo se mnoho epigrammů je opěvajících.
 
 Provozována byla Medeia Euripidova poprvé roku 431., tedy na počátku války peloponneské. Euripidovi dostalo se třetí ceny (první obdržel Euforion, druhou Sofokles), což neznamená o mnoho méně, nežli že básník náš propadl. Však nebyl to tento kus sám o sobě, jenž byl zavržen; závodili zajisté básnici čtyřmi kusy, tak zvanou tetralogií, tak že Medeia sdílela osud dramatu s ní sloučených, jak se zdá méně podařených. Jména těchto dramat jsou: Filoktetés, Diktys a satyrská hra Eristai (ženci).
+
+</section>
