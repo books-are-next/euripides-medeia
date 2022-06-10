@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### IV– Stasimon.
 
 **Chor.:** Teď více nemám nadějí v dítek život, 
@@ -49,3 +51,5 @@ contentType: prose
 > choť má, nevěrný! prvou opustiv.
 
 (Vystoupí vychovatel s chlapci.)
+
+</section>

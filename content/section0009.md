@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### I. Stasimon. 
 
 **Chor.:** Opět k pramenům vody posvátných tekou řek,
@@ -67,3 +69,5 @@ contentType: prose
 > ta králka ovládá.
 
 (Vystoupí Iason)
+
+</section>

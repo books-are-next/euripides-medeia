@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Parodos.
 
 **Chor (vstupuje do orchestry).:**  Slyšelyť výkřik, slyšelyť jsme   
@@ -171,3 +173,5 @@ contentType: prose
 > po moři v noci, po vlnách slaných,
 > 
 > přes průliv beze konce.
+
+</section>

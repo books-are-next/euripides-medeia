@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### II. Stasimon.
 
 **Chor.:** Kdy láska silou se chopí 
@@ -71,3 +73,5 @@ contentType: prose
 > nikdy nebuď druhem mým.
 
 (Vystoupí Aigeus)
+
+</section>

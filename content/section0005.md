@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### OSOBY.
 
 **Iason**, syn Aisonův.  
@@ -23,3 +25,5 @@ contentType: prose
 **Posel** z družiny Iasonovy.
 
 Děj se koná před domem Medeiiným v Korinthu.
+
+</section>

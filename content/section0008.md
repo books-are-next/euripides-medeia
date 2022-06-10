@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ### Epeisodion I.
 
 **Medeia (vystoupí z domu).:** Ó Korinťanky milé! z domu 
@@ -401,3 +403,5 @@ contentType: prose
 > sic neobratné ve šlechetném jednání,
 > 
 > však všeho zlého velechytré strůjkyně.
+
+</section>
