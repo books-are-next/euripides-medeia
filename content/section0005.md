@@ -24,6 +24,10 @@ contentType: prose
 
 **Posel** z družiny Iasonovy.
 
+</section>
+
+<section>
+
 Děj se koná před domem Medeiiným v Korinthu.
 
 </section>
